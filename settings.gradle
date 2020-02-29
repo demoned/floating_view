@@ -1,0 +1,2 @@
+include ':app',':lib_view_float'
+rootProject.name='MsgShowView'
